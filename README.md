@@ -7,7 +7,9 @@ The merkle tree programming assignment consists of following files:
   2. checkinclusion.py
   3. checkconsitency.py
   4. merkle.trees.txt
+
 It is to be noted that no external code/library was used to implement merkle tree functionality.
+
 1. buildmtree.py
   This python file is to create merkle tree. It accepts input from user through command prompt. The input would be a list of strings that are to be used to create merkle tree and converted to sha256 hashes by using the encode_blocks() function. A constructor class MerkleTree() is created to define the parameters of the merkle tree. There are other functions such
   as createTree() to create the tree using the given list items, list_tree() to create a list of the encoded tree values.
