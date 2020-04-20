@@ -2,7 +2,7 @@
 Merkle hash tree and proofs of inclusion and consistency
 
 Design Document of programs:
-The merkle tree programming assignment consists of following files: 
+The merkle tree programming consists of following files: 
   1. buildmtree.py
   2. checkinclusion.py
   3. checkconsitency.py
